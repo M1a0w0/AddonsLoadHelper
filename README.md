@@ -6,7 +6,10 @@
 [![zh-cn](https://img.shields.io/badge/语言-简体中文-green)](https://github.com/M1a0w0/AddonsLoadHelper/blob/main/README_zh-cn.md)
 
 ### Dependence
-- [jsoncpp](https://github.com/open-source-parsers/jsoncpp)
+> [jsoncpp](https://github.com/open-source-parsers/jsoncpp)
+
+### Usage
+Put the `AddonsLoadHelper` in the Minecraft worlds folder,which folder has `resource_packs` and `behavior_packs`.Run `AddonsLoadHelper`,the tool will read all `manifest.json` file in your worlds folder,then create `world_resource_packs.json` and `world_behavior_packs.json`.
 
 ## License
 See the `LICENSE` file for details. In summary, AddonsLoadHelper is licensed under the `MIT license`.
@@ -15,4 +18,4 @@ See the `LICENSE` file for details. In summary, AddonsLoadHelper is licensed und
 |[jsoncpp](https://github.com/open-source-parsers/jsoncpp)|[MIT License](https://github.com/open-source-parsers/jsoncpp/blob/master/LICENSE)|
 
 #### External Link
-- [Minecraft Bedrock Dedicated Server](https://www.minecraft.net/en-us/download/server/bedrock)
+> [Minecraft Bedrock Dedicated Server](https://www.minecraft.net/en-us/download/server/bedrock)
