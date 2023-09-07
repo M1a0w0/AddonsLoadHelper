@@ -9,11 +9,10 @@
 > [jsoncpp](https://github.com/open-source-parsers/jsoncpp)
 
 ### 使用方法
-将 `AddonsLoadHelper` 放置在存档根目录下，即同目录下含有 `resource_packs` 与 `behavior_packs` 文件。运行 `AddonsLoadHelper`，工具会读取所有的 `manifest.json` 文件，然后创建 `world_resource_packs.json` 与 `world_behavior_packs.json`.
+将 `AddonsLoadHelper` 放置在存档根目录下，即同目录下含有 `resource_packs` 与 `behavior_packs` 文件。运行 `AddonsLoadHelper`，工具会读取所有的 `manifest.json` 文件，然后创建 `world_resource_packs.json` 与 `world_behavior_packs.json` 。
 
 ## 许可
-查看 `LICENSE` 文件获取完整协议。Add-ons加载辅助器使用
-`MIT license`.
+查看 `LICENSE` 文件获取完整协议。Add-ons加载辅助器使用 `MIT license` 。
 |项目|许可协议|
 |-|-|
 |[jsoncpp](https://github.com/open-source-parsers/jsoncpp)|[MIT License](https://github.com/open-source-parsers/jsoncpp/blob/master/LICENSE)|
