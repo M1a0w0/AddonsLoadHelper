@@ -1,5 +1,5 @@
 # AddonsLoadHelper
-###### A tool that can help you quickly load addons in [Minecraft Bedlock Dedicated Server](#external-link).
+###### A tool that can help you quickly load addons in [Minecraft Bedrock Dedicated Server](#external-link).
 
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/M1a0w0/AddonsLoadHelper/blob/main/LICENSE)
 [![en-us](https://img.shields.io/badge/language-English-blue)](https://github.com/M1a0w0/AddonsLoadHelper/blob/main/README.md)
